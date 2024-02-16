@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.vs
+dataset/
+doc_apoio/
 
 # C extensions
 *.so
